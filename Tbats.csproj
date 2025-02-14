@@ -1,0 +1,19 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>Tbats</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Content\Items\AshWoodBat.png" />
+    <None Remove="Content\Items\BorealWoodBat.png" />
+    <None Remove="Content\Items\CactusBat.png" />
+    <None Remove="Content\Items\PalmWoodBat.png" />
+    <None Remove="Content\Items\PearlwoodBat.png" />
+    <None Remove="Content\Projectiles\living_flame.png" />
+    <None Remove="Items\MeteorBat.png" />
+    <None Remove="Items\MoltenBat.png" />
+    <None Remove="Projectiles\molten_explosion.png" />
+  </ItemGroup>
+</Project>

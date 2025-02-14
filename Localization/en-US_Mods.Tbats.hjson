@@ -1,0 +1,357 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	IronBat: {
+		DisplayName: Iron Bat
+		Tooltip: ""
+	}
+
+	CopperBat: {
+		DisplayName: Copper Bat
+		Tooltip: ""
+	}
+
+	TinBat: {
+		DisplayName: Tin Bat
+		Tooltip: ""
+	}
+
+	GoldBat: {
+		DisplayName: Gold Bat
+		Tooltip: ""
+	}
+
+	LeadBat: {
+		DisplayName: Lead Bat
+		Tooltip: ""
+	}
+
+	PlatinumBat: {
+		DisplayName: Platinum Bat
+		Tooltip: ""
+	}
+
+	SilverBat: {
+		DisplayName: Silver Bat
+		Tooltip: ""
+	}
+
+	TungstenBat: {
+		DisplayName: Tungsten Bat
+		Tooltip: ""
+	}
+
+	AdamantiteBat: {
+		DisplayName: Adamantite Bat
+		Tooltip: ""
+	}
+
+	CobaltBat: {
+		DisplayName: Cobalt Bat
+		Tooltip: ""
+	}
+
+	HallowedBat: {
+		DisplayName: Hallowed Bat
+		Tooltip: ""
+	}
+
+	MythrilBat: {
+		DisplayName: Mythril Bat
+		Tooltip: ""
+	}
+
+	PalladiumBat: {
+		DisplayName: Palladium Bat
+		Tooltip: ""
+	}
+
+	TitaniumBat: {
+		DisplayName: Titanium Bat
+		Tooltip: ""
+	}
+
+	ChlorophyteBat: {
+		DisplayName: Chlorophyte Bat
+		Tooltip: ""
+	}
+
+	OrichalcumBat: {
+		DisplayName: Orichalcum Bat
+		Tooltip: ""
+	}
+
+	CrimtaneBat: {
+		DisplayName: Crimtane Bat
+		Tooltip: ""
+	}
+
+	DemoniteBat: {
+		DisplayName: Demonite Bat
+		Tooltip: ""
+	}
+
+	ShroomiteBat: {
+		DisplayName: Shroomite Bat
+		Tooltip: ""
+	}
+
+	WoodBat: {
+		DisplayName: Wood Bat
+		Tooltip: ""
+	}
+
+	EbonwoodBat: {
+		DisplayName: Ebonwood Bat
+		Tooltip: ""
+	}
+
+	MahoganyWoodBat: {
+		DisplayName: Mahogany Wood Bat
+		Tooltip: ""
+	}
+
+	ShadewoodBat: {
+		DisplayName: Shadewood Bat
+		Tooltip: ""
+	}
+
+	SilkBat: {
+		Tooltip: ""
+		DisplayName: Silk Bat
+	}
+
+	LuminiteBat: {
+		DisplayName: Lunar Bat
+		Tooltip: ""
+	}
+
+	MidnightBat: {
+		DisplayName: Empowered Lunar Bat
+		Tooltip: ""
+	}
+
+	MeteorBat: {
+		Tooltip: ""
+		DisplayName: Meteorite Bat
+	}
+
+	MoltenBat: {
+		DisplayName: Molten Bat
+		Tooltip: ""
+	}
+
+	CactusBat: {
+		DisplayName: Cactus Bat
+		Tooltip: ""
+	}
+
+	BorealWoodBat: {
+		DisplayName: Boreal Wood Bat
+		Tooltip: ""
+	}
+
+	PalmWoodBat: {
+		DisplayName: Palm Wood Bat
+		Tooltip: ""
+	}
+
+	AshWoodBat: {
+		DisplayName: Ash Wood Bat
+		Tooltip: ""
+	}
+
+	PearlwoodBat: {
+		DisplayName: Pearlwood Bat
+		Tooltip: ""
+	}
+
+	PumpkinBat: {
+		DisplayName: Pumpkin Bat
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	Meteor.DisplayName: Rogue Meteor
+	cholorophyte_dust.DisplayName: Cholorophyte Dust
+	living_flame.DisplayName: Living Flame
+	MidnightBatProjectile.DisplayName: Lunar Beam
+}
+
+Configs: {
+	ServerConfig: {
+		Headers.BatDamage: Bat Damage Editor
+		DisplayName: TBats Server Config
+
+		AdamantiteBatDamage: {
+			Label: Adamantite Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		ChlorophyteBatDamage: {
+			Label: Chlorophyte Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		CobaltBatDamage: {
+			Label: Cobalt Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		CopperBatDamage: {
+			Label: Copper Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		CrimtaneBatDamage: {
+			Label: Crimtane Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		DemoniteBatDamage: {
+			Label: Demonite Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		EbonwoodBatDamage: {
+			Label: Ebonwood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		GoldBatDamage: {
+			Label: Gold Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		HallowedBatDamage: {
+			Label: Hallowed Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		IronBatDamage: {
+			Label: Iron Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		LeadBatDamage: {
+			Label: Lead Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		LuminiteBatDamage: {
+			Label: Luminite Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		MahoganyWoodBatDamage: {
+			Label: Mahogany Wood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		MeteorBatDamage: {
+			Label: Meteor Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		MidnightBatDamage: {
+			Label: Midnight Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		MoltenBatDamage: {
+			Label: Molten Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		MythrilBatDamage: {
+			Label: Mythril Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		OrichalcumBatDamage: {
+			Label: Orichalcum Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		PalladiumBatDamage: {
+			Label: Palladium Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		PlatinumBatDamage: {
+			Label: Platinum Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		ShadewoodBatDamage: {
+			Label: Shadewood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		ShroomiteBatDamage: {
+			Label: Shroomite Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		SilkBatDamage: {
+			Label: Silk Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		SilverBatDamage: {
+			Label: Silver Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		TinBatDamage: {
+			Label: Tin Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		TitaniumBatDamage: {
+			Label: Titanium Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		TungstenBatDamage: {
+			Label: Tungsten Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		WoodBatDamage: {
+			Label: Wood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		CactusBatDamage: {
+			Label: Cactus Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		BorealWoodBatDamage: {
+			Label: Boreal Wood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		PalmWoodBatDamage: {
+			Label: Palm Wood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		AshWoodBatDamage: {
+			Label: Ash Wood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		PearlwoodBatDamage: {
+			Label: Pearlwood Bat Damage
+			Tooltip: Changes the damage of this bat
+		}
+
+		PumpkinBatDamage: {
+			Label: Pumpkin Bat Damage
+			Tooltip: ""
+		}
+	}
+}
