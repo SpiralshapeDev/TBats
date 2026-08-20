@@ -1,5 +1,5 @@
 ### Dependencies
-* [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+* [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 * tModLoader 1.4.4
 
 ### Setting Up the Project Environment
