@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Security.Cryptography.X509Certificates;
 using Terraria.ModLoader.Config;
 
 namespace Tbats.Common.Configs
@@ -15,173 +12,139 @@ namespace Tbats.Common.Configs
         [Header("BatDamage")]
 
         [Range(0, 32767)]
-        [DefaultValue(153)]
-        [ReloadRequired]
+        [DefaultValue(47)]
         public int AdamantiteBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(238)]
-        [ReloadRequired]
+        [DefaultValue(61)]
         public int ChlorophyteBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(100)]
-        [ReloadRequired]
+        [DefaultValue(36)]
         public int CobaltBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(25)]
-        [ReloadRequired]
+        [DefaultValue(9)]
         public int CopperBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(55)]
-        [ReloadRequired]
+        [DefaultValue(15)]
         public int CrimtaneBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(40)]
-        [ReloadRequired]
+        [DefaultValue(15)]
         public int DemoniteBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int EbonwoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(43)]
-        [ReloadRequired]
+        [DefaultValue(13)]
         public int GoldBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(180)]
-        [ReloadRequired]
+        [DefaultValue(58)]
         public int HallowedBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(35)]
-        [ReloadRequired]
+        [DefaultValue(10)]
         public int IronBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(38)]
-        [ReloadRequired]
+        [DefaultValue(10)]
         public int LeadBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(300)]
-        [ReloadRequired]
+        [DefaultValue(80)]
         public int LuminiteBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int MahoganyWoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(33)]
-        [ReloadRequired]
+        [DefaultValue(20)]
         public int MeteorBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(375)]
-        [ReloadRequired]
+        [DefaultValue(120)]
         public int MidnightBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(65)]
-        [ReloadRequired]
+        [DefaultValue(23)]
         public int MoltenBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(125)]
-        [ReloadRequired]
+        [DefaultValue(42)]
         public int MythrilBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(148)]
-        [ReloadRequired]
+        [DefaultValue(42)]
         public int OrichalcumBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(128)]
-        [ReloadRequired]
+        [DefaultValue(36)]
         public int PalladiumBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(48)]
-        [ReloadRequired]
+        [DefaultValue(11.5f)]
         public int PlatinumBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int ShadewoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(188)]
-        [ReloadRequired]
+        [DefaultValue(68)]
         public int ShroomiteBatDamage;
 
         [Range(0, 32767)]
         [DefaultValue(4)]
-        [ReloadRequired]
         public int SilkBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(40)]
-        [ReloadRequired]
+        [DefaultValue(13)]
         public int SilverBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(28)]
-        [ReloadRequired]
+        [DefaultValue(9)]
         public int TinBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(153)]
-        [ReloadRequired]
+        [DefaultValue(47)]
         public int TitaniumBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(40)]
-        [ReloadRequired]
+        [DefaultValue(11.5f)]
         public int TungstenBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int WoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(39)]
-        [ReloadRequired]
+        [DefaultValue(7)]
         public int CactusBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int BorealWoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(27)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int PalmWoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(50)]
-        [ReloadRequired]
+        [DefaultValue(14)]
         public int AshWoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(76)]
-        [ReloadRequired]
+        [DefaultValue(8)]
         public int PearlwoodBatDamage;
 
         [Range(0, 32767)]
-        [DefaultValue(33)]
-        [ReloadRequired]
+        [DefaultValue(7)]
         public int PumpkinBatDamage;
 
     }

@@ -3,180 +3,186 @@
 Items: {
 	IronBat: {
 		DisplayName: Iron Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	CopperBat: {
 		DisplayName: Copper Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	TinBat: {
 		DisplayName: Tin Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	GoldBat: {
 		DisplayName: Gold Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	LeadBat: {
 		DisplayName: Lead Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	PlatinumBat: {
 		DisplayName: Platinum Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	SilverBat: {
 		DisplayName: Silver Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	TungstenBat: {
 		DisplayName: Tungsten Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	AdamantiteBat: {
 		DisplayName: Adamantite Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	CobaltBat: {
 		DisplayName: Cobalt Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	HallowedBat: {
 		DisplayName: Hallowed Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	MythrilBat: {
 		DisplayName: Mythril Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	PalladiumBat: {
 		DisplayName: Palladium Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	TitaniumBat: {
 		DisplayName: Titanium Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	ChlorophyteBat: {
 		DisplayName: Chlorophyte Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	OrichalcumBat: {
 		DisplayName: Orichalcum Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	CrimtaneBat: {
-		DisplayName: Crimtane Bat
-		Tooltip: ""
+		DisplayName: Blood Bat
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	DemoniteBat: {
 		DisplayName: Demonite Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	ShroomiteBat: {
 		DisplayName: Shroomite Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	WoodBat: {
 		DisplayName: Wood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	EbonwoodBat: {
 		DisplayName: Ebonwood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	MahoganyWoodBat: {
 		DisplayName: Mahogany Wood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	ShadewoodBat: {
 		DisplayName: Shadewood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	SilkBat: {
-		Tooltip: ""
 		DisplayName: Silk Bat
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	LuminiteBat: {
 		DisplayName: Lunar Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	MidnightBat: {
 		DisplayName: Empowered Lunar Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	MeteorBat: {
-		Tooltip: ""
 		DisplayName: Meteorite Bat
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	MoltenBat: {
 		DisplayName: Molten Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	CactusBat: {
 		DisplayName: Cactus Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	BorealWoodBat: {
 		DisplayName: Boreal Wood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	PalmWoodBat: {
 		DisplayName: Palm Wood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	AshWoodBat: {
 		DisplayName: Ash Wood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	PearlwoodBat: {
 		DisplayName: Pearlwood Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 
 	PumpkinBat: {
 		DisplayName: Pumpkin Bat
-		Tooltip: ""
+		Tooltip: Hits multiple targets & blocks knockback!
 	}
 }
 
 Projectiles: {
+	ChlorophyteBatProjectile.DisplayName: Bat
+	BaseBatProjectile.DisplayName: Bat
+	MoltenBatProjectile.DisplayName: Bat
+	MidnightBatProjectile.DisplayName: Bat
+	MeteorBatProjectile.DisplayName: Bat
 	Meteor.DisplayName: Rogue Meteor
-	cholorophyte_dust.DisplayName: Cholorophyte Dust
-	living_flame.DisplayName: Living Flame
-	MidnightBatProjectile.DisplayName: Lunar Beam
+	HomingChlorophyte.DisplayName: Homing Chlorophyte
+	MoltenFlame.DisplayName: Molten Flame
+	MoltenSlag.DisplayName: Molten Slag
+	MidnightBreak.DisplayName: Midnight Break
 }
 
 Configs: {
@@ -186,167 +192,167 @@ Configs: {
 
 		AdamantiteBatDamage: {
 			Label: Adamantite Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		ChlorophyteBatDamage: {
 			Label: Chlorophyte Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		CobaltBatDamage: {
 			Label: Cobalt Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		CopperBatDamage: {
 			Label: Copper Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		CrimtaneBatDamage: {
 			Label: Crimtane Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		DemoniteBatDamage: {
 			Label: Demonite Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		EbonwoodBatDamage: {
 			Label: Ebonwood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		GoldBatDamage: {
 			Label: Gold Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		HallowedBatDamage: {
 			Label: Hallowed Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		IronBatDamage: {
 			Label: Iron Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		LeadBatDamage: {
 			Label: Lead Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		LuminiteBatDamage: {
 			Label: Luminite Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		MahoganyWoodBatDamage: {
 			Label: Mahogany Wood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		MeteorBatDamage: {
 			Label: Meteor Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		MidnightBatDamage: {
 			Label: Midnight Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		MoltenBatDamage: {
 			Label: Molten Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		MythrilBatDamage: {
 			Label: Mythril Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		OrichalcumBatDamage: {
 			Label: Orichalcum Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		PalladiumBatDamage: {
 			Label: Palladium Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		PlatinumBatDamage: {
 			Label: Platinum Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		ShadewoodBatDamage: {
 			Label: Shadewood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		ShroomiteBatDamage: {
 			Label: Shroomite Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		SilkBatDamage: {
 			Label: Silk Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		SilverBatDamage: {
 			Label: Silver Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		TinBatDamage: {
 			Label: Tin Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		TitaniumBatDamage: {
 			Label: Titanium Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		TungstenBatDamage: {
 			Label: Tungsten Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		WoodBatDamage: {
 			Label: Wood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		CactusBatDamage: {
 			Label: Cactus Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		BorealWoodBatDamage: {
 			Label: Boreal Wood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		PalmWoodBatDamage: {
 			Label: Palm Wood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		AshWoodBatDamage: {
 			Label: Ash Wood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		PearlwoodBatDamage: {
 			Label: Pearlwood Bat Damage
-			Tooltip: Changes the damage of this bat
+			Tooltip: ""
 		}
 
 		PumpkinBatDamage: {
